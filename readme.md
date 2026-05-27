@@ -9,4 +9,5 @@ algorithms for interactive storytelling, video games, and game-like systems.
 - [Curriculum Vitae](https://sgware.github.io/cv/cv.pdf)
 - [Narrative Intelligence Lab YouTube Channel](https://www.youtube.com/@narrativeintelligencelab)
 - [Personal YouTube Channel](https://www.youtube.com/@sgware)
+- [Google Scholar](https://scholar.google.com/citations?user=mkFBt8oAAAAJ)
 - BlueSky: [sgware.bsky.social](https://bsky.app/profile/sgware.bsky.social)
