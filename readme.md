@@ -1,6 +1,11 @@
+---
+title: Stephen G. Ware
+description: Stephen G. Ware's is an Associate Professor of Computer Science who does research on AI and game development.
+---
+
 # Stephen G. Ware
 
-<img style="float:right;width:30%;margin-left:5%" src="sgware.png"/>
+<img style="float:right;width:30%;margin-left:3%" src="sgware.png"/>
 
 I am an Associate Professor of Computer Science at the
 [University of Kentucky](http://uky.edu) where I direct the
