@@ -1,6 +1,6 @@
 # Stephen G. Ware
 
-![Headshot of Stephen G. Ware](sgware.png)
+<img style="float:right;width:20%" src="sgware.png"/>
 
 I am an Associate Professor of Computer Science at the
 [University of Kentucky](http://uky.edu) where I direct the
