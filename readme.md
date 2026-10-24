@@ -1,5 +1,7 @@
 # Stephen G. Ware
 
+![Headshot of Stephen G. Ware](sgware.png)
+
 I am an Associate Professor of Computer Science at the
 [University of Kentucky](http://uky.edu) where I direct the
 [Narrative Intelligence Lab](https://cs.uky.edu/~sgware/). I do research on
