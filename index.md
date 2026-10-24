@@ -14,11 +14,11 @@ I am an Associate Professor of Computer Science at the
 algorithms for interactive storytelling. I use them in video games and game-like
 things, such as training simulations.
 
-- Email: [sgware@cs.uky.edu](mailto:sgware@cs.uky.edu)
 - [Curriculum Vitae](https://sgware.github.io/cv/cv.pdf)
 - [Research Projects](https://cs.uky.edu/~sgware/projects)
 - [Narrative Intelligence Lab YouTube Channel](https://www.youtube.com/@narrativeintelligencelab)
-- [Personal YouTube Channel](https://www.youtube.com/@sgware)
 - [Google Scholar](https://scholar.google.com/citations?user=mkFBt8oAAAAJ)
 - [GitHub Profile](https://github.com/sgware)
-- BlueSky: [sgware.bsky.social](https://bsky.app/profile/sgware.bsky.social)
+- Email: [sgware@cs.uky.edu](mailto:sgware@cs.uky.edu)
+- BlueSky: [@sgware.com](https://bsky.app/profile/sgware.com)
+- [Personal YouTube Channel](https://www.youtube.com/@sgware)
