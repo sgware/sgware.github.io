@@ -9,6 +9,7 @@ algorithms for interactive storytelling, video games, and game-like systems.
 
 - Email: [sgware@cs.uky.edu](mailto:sgware@cs.uky.edu)
 - [Curriculum Vitae](https://sgware.github.io/cv/cv.pdf)
+- [Research Projects](https://cs.uky.edu/~sgware/projects)
 - [Narrative Intelligence Lab YouTube Channel](https://www.youtube.com/@narrativeintelligencelab)
 - [Personal YouTube Channel](https://www.youtube.com/@sgware)
 - [Google Scholar](https://scholar.google.com/citations?user=mkFBt8oAAAAJ)
