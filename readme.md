@@ -1,4 +1,5 @@
 ---
+layout: "default"
 title: "Stephen G. Ware"
 description: "Stephen G. Ware is an Associate Professor of Computer Science who does research on AI and game development."
 ---
