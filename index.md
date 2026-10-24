@@ -11,7 +11,8 @@ description: "Stephen G. Ware is an Associate Professor of Computer Science who 
 I am an Associate Professor of Computer Science at the
 [University of Kentucky](http://uky.edu) where I direct the
 [Narrative Intelligence Lab](https://cs.uky.edu/~sgware/). I do research on
-algorithms for interactive storytelling, video games, and game-like systems.
+algorithms for interactive storytelling. I use them in video games and game-like
+things, such as training simulations.
 
 - Email: [sgware@cs.uky.edu](mailto:sgware@cs.uky.edu)
 - [Curriculum Vitae](https://sgware.github.io/cv/cv.pdf)
